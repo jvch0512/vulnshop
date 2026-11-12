@@ -1,0 +1,1 @@
+VULNSHOP-CANARY: this file lives outside the invoices folder and must never be served.

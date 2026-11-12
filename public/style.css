@@ -1,0 +1,10 @@
+*{box-sizing:border-box}body{margin:0;font:15px/1.5 system-ui,sans-serif;background:#f6f7fb;color:#1c2233}
+.banner{padding:6px 16px;text-align:center;font-weight:600;font-size:13px;color:#fff}.banner.bad{background:#c2362b}.banner.ok{background:#1f8a4c}
+header{display:flex;gap:20px;align-items:center;padding:14px 28px;background:#fff;border-bottom:1px solid #e1e5ee}.logo{font-weight:800;font-size:20px;color:#1c2233;text-decoration:none}
+header form{flex:1;display:flex;gap:6px}header input{flex:1;padding:8px 10px;border:1px solid #cfd5e3;border-radius:8px}button{background:#2b5cff;color:#fff;border:0;border-radius:8px;padding:8px 14px;cursor:pointer}
+nav a{margin-left:14px;color:#2b5cff;text-decoration:none}main{max-width:960px;margin:24px auto;padding:0 20px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:16px}.card{background:#fff;border:1px solid #e1e5ee;border-radius:12px;padding:16px}.card h3{margin:0 0 6px}.price{font-weight:700}
+form.stack{display:grid;gap:10px;max-width:380px}form.stack input,form.stack textarea{padding:9px;border:1px solid #cfd5e3;border-radius:8px;font:inherit}
+.msg{padding:10px 14px;border-radius:8px;background:#e8f0ff;margin-bottom:14px}.err{background:#ffe9e7}
+table{border-collapse:collapse;width:100%;background:#fff}td,th{padding:9px 12px;border-bottom:1px solid #e1e5ee;text-align:left}
+.review{border-left:3px solid #2b5cff;padding:4px 12px;margin:10px 0;background:#fff}footer{text-align:center;color:#6b7590;padding:30px;font-size:12px}
